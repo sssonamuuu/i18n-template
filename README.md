@@ -3,7 +3,7 @@
 解决部分不方便在代码中进行逻辑判断展示不同效果的情况，主要针对多语言。
 
 ``` javascript
-import t from '@front-end-club/i18n-template';
+import t from './dist/main.js';
 
 t(templateStr, obj);
 ```

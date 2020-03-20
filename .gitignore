@@ -1,0 +1,9 @@
+.awcache/
+bower_components/
+node_modules/
+.webpack-cache/
+.DS_Store
+.idea/
+package-lock.json
+yarn.lock
+yarn-error.log
